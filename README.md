@@ -5,6 +5,7 @@ Argue 2 advantages of Git DVCS over Dropbox
 
 created question1.html file
 wrote the html syntax for our page i.e. html body etc.
+I have written the introductory paragraph which fixes issue #1
 
 Question 2:
 Compare CLI vs. GUI clients for working with Git
