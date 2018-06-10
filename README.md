@@ -20,3 +20,7 @@ Review 3 different GUI Git clients
 created question3.html file
 wrote the html syntax for our page i.e. html body etc.
 
+
+
+create a .gitignore file to ignore any irrelevant files
+
