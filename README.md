@@ -7,6 +7,8 @@ created question1.html file
 wrote the html syntax for our page i.e. html body etc.
 I have written the introductory paragraph which fixes issue #1
 
+create a two paragraph to discuss the 2 advantages of Git ovr Dropbox.
+
 Question 2:
 Compare CLI vs. GUI clients for working with Git
 
