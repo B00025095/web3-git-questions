@@ -14,6 +14,7 @@ Compare CLI vs. GUI clients for working with Git
 
 created question2.html file
 wrote the html syntax for our page i.e. html body etc.
+wrote the introductory paragraph of question2.html
 
 
 Question 3:
@@ -21,6 +22,8 @@ Review 3 different GUI Git clients
 
 created question3.html file
 wrote the html syntax for our page i.e. html body etc.
+
+answered question 3 and highlighted briefly 3 different GUI clients
 
 
 
