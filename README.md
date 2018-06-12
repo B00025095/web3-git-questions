@@ -23,6 +23,7 @@ Review 3 different GUI Git clients
 created question3.html file
 wrote the html syntax for our page i.e. html body etc.
 
+
 add the introductory paragraph of question 3.
 
 answered question 3 and highlighted briefly 3 different GUI clients
@@ -30,4 +31,6 @@ answered question 3 and highlighted briefly 3 different GUI clients
 
 
 create a .gitignore file to ignore any irrelevant files
+
+created a Branch alternative_answer.
 
