@@ -34,3 +34,7 @@ create a .gitignore file to ignore any irrelevant files
 
 created a Branch alternative_answer.
 
+change question1.html to index.html and create links to question2.html and question3.html
+
+add links to question2.html and question3.html
+
