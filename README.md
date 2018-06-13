@@ -1,5 +1,8 @@
 # Clary Binda-Mayindu B00025095
 
+Link to Github Pages Website:
+https://b00025095.github.io/web3-git-questions/
+
 Question 1:
 Argue 2 advantages of Git DVCS over Dropbox
 
